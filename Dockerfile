@@ -1,7 +1,7 @@
 # Dockerizing Scala and Java
 # Installs apt-transport-https and sbt
 
-FROM openjdk:8
+FROM openjdk:11
 MAINTAINER R. Heusser <roland.heusser@sri.com>
 
 # Update
